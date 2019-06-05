@@ -1,0 +1,10 @@
+
+--class Bicontravariant f where
+--    kmap :: (f x y -> f a b) -> (y -> x) -> b -> a
+
+
+--class Bifunctor f where
+--    bmap :: (a -> b) -> (x -> y) -> f a b -> f x y
+
+--class Bicofunctor f where
+--    bicomap :: ((f x y -> f a b) -> (y -> b)) -> x -> a
